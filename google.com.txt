@@ -21,7 +21,7 @@
    Name Server: NS4.GOOGLE.COM
    DNSSEC: unsigned
    URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of whois database: 2021-04-27T19:13:45Z <<<
+>>> Last update of whois database: 2021-05-01T21:11:28Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 
@@ -87,13 +87,13 @@ Tech Organization: Google LLC
 Tech State/Province: CA
 Tech Country: US
 Tech Email: Select Request Email Form at https://domains.markmonitor.com/whois/google.com
-Name Server: ns1.google.com
 Name Server: ns3.google.com
-Name Server: ns4.google.com
 Name Server: ns2.google.com
+Name Server: ns4.google.com
+Name Server: ns1.google.com
 DNSSEC: unsigned
 URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
->>> Last update of WHOIS database: 2021-04-27T12:12:00-0700 <<<
+>>> Last update of WHOIS database: 2021-05-01T14:02:34-0700 <<<
 
 For more information on WHOIS status codes, please visit:
   https://www.icann.org/resources/pages/epp-status-codes
