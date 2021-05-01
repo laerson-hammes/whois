@@ -22,8 +22,7 @@ class Whois(object):
         parser.add_argument("-d", "--domain", dest="domain", help="Domain name")
         options = parser.parse_args()
         if not options.domain:
-            domain: str = str(input("Domain name: "))
-            return domain
+            options.domain = str(input("Domain name: "))
         return options.domain
 
 
